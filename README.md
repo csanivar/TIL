@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-Inspired from [TIL](https://github.com/jbranchaud/til).
+Inspired from [this](https://github.com/jbranchaud/til).
 
 ---
 
